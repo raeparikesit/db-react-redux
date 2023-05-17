@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "rae",
+      "alamat": "jogja",
+      "umur": 20,
+      "nohp": "08139213812"
+    },
+    {
+      "id": 2,
+      "nama": "danu",
+      "alamat": "jogja",
+      "umur": 22,
+      "nohp": "123139213812"
+    },
+    {
+      "id": 3,
+      "nama": "agil",
+      "alamat": "jogja",
+      "umur": 19,
+      "nohp": "081645645213812"
+    }
+  ]
+}
